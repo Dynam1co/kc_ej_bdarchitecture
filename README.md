@@ -1,4 +1,4 @@
-Práctica Big Data Architecture BootCamp Big Data & Machine Learning
+#Práctica Big Data Architecture BootCamp Big Data & Machine Learning
 
 Este repositorio pretende servir de guía paso a paso para explicar el procedimiento que he seguido para hacer la práctica del módulo Big Data Architecture para el BootCamp de Big Data & Machine Learning que estoy cursando en [Keep Coding](https://keepcoding.io/es/)
 
@@ -18,3 +18,8 @@ Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para p
 - [Proyecto PyHive/Django](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
 - [Vídeo explicativo funcionamiento]
 
+## Expresiones de Gratitud 🎁
+
+- Comenta a otros sobre este proyecto 📢
+- Da las gracias públicamente 🤓
+- Sígueme en [Twitter](https://twitter.com/AsensiFj) 🐦
