@@ -16,7 +16,11 @@ Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para p
 
 - [Proyecto Scrapy](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
 - [Proyecto PyHive](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
-- [Vídeo explicativo funcionamiento]
+- [Vídeo explicativo funcionamiento](https://youtu.be/3wt1vzeaNXQ)
+
+https://youtu.be/3wt1vzeaNXQ
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3wt1vzeaNXQ/0.jpg)](https://www.youtube.com/watch?v=3wt1vzeaNXQ)
 
 ## Herramientas utilizadas
 
