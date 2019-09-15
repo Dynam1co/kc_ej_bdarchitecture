@@ -6,7 +6,7 @@ Este repositorio pretende servir de guía paso a paso para explicar el procedimi
 
 Mi práctica consta de usar un csv ya existente con apartamentos de Airbnb para encontrar restaurantes cercanos a cada uno de ellos usando las coordenadas GPS. Para ello, crearé un programa escrito en Python 3 que se apoyará en el framework [Scrapy](https://scrapy.org/) y obtendrá los restaurantes de la web [El Tenedor](https://www.eltenedor.es/). Este mismo programa, subirá a Google Storage el csv de Airbnb y el de los restaurantes que se ha obtenido scrapeando la web de El tenedor.
 
-Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para procesar datos de forma distribuida, que también tendrá [Hive](https://hive.apache.org/) integrado para facilitar el cruce y extracción de datos. La conexión con Hive y la visualización de datos la haré en un proyecto Python 3 que usará la librería [PyHive](https://pypi.org/project/PyHive/) para consulta, y el framework [Django](https://www.djangoproject.com/) Para la visualización de datos vía web.
+Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para procesar datos de forma distribuida, que también tendrá [Hive](https://hive.apache.org/) integrado para facilitar el cruce y extracción de datos. La conexión con Hive y la visualización de datos la haré en un proyecto Python 3 que usará la librería [PyHive](https://pypi.org/project/PyHive/) para consulta, y ls consola para la visualización de datos.
 
 ### Esquema del ejercicio
 
