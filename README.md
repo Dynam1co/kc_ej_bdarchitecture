@@ -15,7 +15,7 @@ Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para p
 ## Enlaces proyecto
 
 - [Proyecto Scrapy](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
-- [Proyecto PyHive/Django](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+- [Proyecto PyHive](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
 - [Vídeo explicativo funcionamiento]
 
 ## Herramientas utilizadas
@@ -23,7 +23,6 @@ Montaré en Google Cloud un clúster [Hadoop](https://hadoop.apache.org/) para p
 * [Typora](https://www.typora.io/) como editor markdown
 * [Python 3](https://www.python.org/) como lenguaje de programación
 * [PyCharm](https://www.jetbrains.com/pycharm/) como IDE para Python y Django
-* [Django](https://www.djangoproject.com/) para visualización de datos vía web
 * [Git Hub](https://github.com/) para el control de código fuente y exposición
 * [YouTube](https://www.youtube.com/) para vídeo de demostración
 * [iMovie](https://www.apple.com/es/imovie/) para edición de vídeo
